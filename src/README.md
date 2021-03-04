@@ -16,14 +16,17 @@
 * [Исходный код программы](https://github.com/jukkty/java1.1/blob/master/src/Main.java)
 
 В качестве тестовых данных использовались данные [Сайт генератора номеров кредитных карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
+
 **VISA**
   * 4532879462821154 - OK
   * 4024007134815264 - OK
   * 4929818183600629085 - FAIL
+
 **MasterCard**
   * 5162203045708339 - OK
   * 5113061034223037 - OK
   * 2720997279341178 - OK
+
 **AMEX**
   * 346071349220552 - FAIL
   * 348683015029642 - FAIL
